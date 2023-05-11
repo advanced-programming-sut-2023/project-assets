@@ -1,0 +1,1 @@
+To generate more captcha please run main.py

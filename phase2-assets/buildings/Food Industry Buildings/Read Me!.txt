@@ -1,0 +1,42 @@
+﻿Now, I may seem lazy by not putting the sprites in sheets like how most sprites on this site are. However,
+you have to take into account that it's easier this way. Because you can edit them, then easily import them back 
+into the game. It's also easier for other contributers, because they will be able to see which files I omitted or 
+forgotten to include.
+
+Now on to the technical aspects of this contribution:
+
+This readme file is present in each zipped folder that I submitted. Thus, not everything written may apply to this
+folder.
+
+The tools I used couldn't correctly extract the following GM1 Animations:
+
+Spearman
+Catapult
+Trebuchet
+Shield
+Knight top
+Knight bottom
+Crusader lord
+Arabian lord
+Some flags
+Crossbowman
+...And probably some others that I forgot.
+
+The problem with the images from this list is how the colours are extracted, they get all messed up. So much that 
+in some cases you can hardly identify what it is.
+
+I've deliberately omitted the following TGX images:
+
+Random green, red and grey squares, they don't have real purposes.
+Black. - An empty black image.
+Easter eggs? - Crude drawings of symbols supposed to represent Wolf, Rat, Pig and Snake. The name of files are named after who they represent.
+Some probably beta stuff - seemingly early dev. stuff, they're quite ugly and few, thus I didn't feel the need to include them.
+Leftovers from the previous title 
+Tutorial images
+
+By the way, some sprites may look invisible, pay more attention because they're actually white!
+
+Ripped by ¼, no credit needed
+
+
+
